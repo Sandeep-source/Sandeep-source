@@ -1,9 +1,9 @@
 
 ## Hi there! 👋
 
-I'm Sandeep, an undergraduate Student 👨‍🎓 with a passion for building innovative web and mobile applications. I have experience with languages such as Java, Python, and JavaScript, and I'm always looking to learn new technologies.
+I'm Sandeep, an undergraduate Student 👨‍🎓 with a passion for building innovative web and mobile applications. I have experience with languages such as Java ☕, Python 🐍, and JavaScript, and I'm always looking to learn new technologies.
 
-https://www.sandeepkushwaha.live
+[Connect with me 🤝](https://www.sandeepkushwaha.live)
 
 <!--
 **Sandeep-source/Sandeep-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
